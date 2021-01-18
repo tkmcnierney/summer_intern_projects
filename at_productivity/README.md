@@ -1,4 +1,4 @@
-# atproductivity
+# at_productivity
 
 @Productivity application. Keep in mind that this application may not run properly
 when you first clone it from this repository. Please update the Firebase preferences
