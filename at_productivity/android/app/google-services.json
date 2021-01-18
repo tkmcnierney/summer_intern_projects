@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254159069449",
+    "firebase_url": "https://atproductivity-d62a7.firebaseio.com",
+    "project_id": "atproductivity-d62a7",
+    "storage_bucket": "atproductivity-d62a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254159069449:android:eab0f29eb2e8fdbf9233d8",
+        "android_client_info": {
+          "package_name": "com.atsign.atproductivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254159069449-k06th0fa5kl5h066p0lna9l5suv9se8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atsign.atproductivity",
+            "certificate_hash": "a2c015d0edc7459d9f6905d86c6a9e81746254cd"
+          }
+        },
+        {
+          "client_id": "254159069449-185ha6o5u3n5dvlt5k9ajr3gaf3j81n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h4kdPTOlRfTOr89U5gGeyF7-NmUXl7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254159069449-185ha6o5u3n5dvlt5k9ajr3gaf3j81n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
